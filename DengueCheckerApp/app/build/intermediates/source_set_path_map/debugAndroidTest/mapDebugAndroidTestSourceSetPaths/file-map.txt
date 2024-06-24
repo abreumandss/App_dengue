@@ -1,0 +1,4 @@
+com.example.denguecheckerapp.test.app-androidTest-0 C:\Users\Admin\Desktop\Amanda\Dengue_app\DengueCheckerApp\app\build\generated\res\resValues\androidTest\debug
+com.example.denguecheckerapp.test.app-mergeDebugAndroidTestResources-1 C:\Users\Admin\Desktop\Amanda\Dengue_app\DengueCheckerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.denguecheckerapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\Admin\Desktop\Amanda\Dengue_app\DengueCheckerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.denguecheckerapp.test.app-debugAndroidTest-3 C:\Users\Admin\Desktop\Amanda\Dengue_app\DengueCheckerApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

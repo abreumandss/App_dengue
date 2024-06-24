@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DengueApp</string>
+    <string name="febre">Febre</string>
+    <string name="dor_de_cabeca">Dor de cabeça</string>
+    <string name="dor_atras_dos_olhos">Dor atrás dos olhos</string>
+    <string name="manchas_na_pele">Manchas vermelhas</string>
+    <string name="dores_no_corpo">Dores nas articulações</string>
+    <string name="todo">Descrição da imagem</string>
+    <string name="dores_musculares">Dores musculares</string>
+    <string name="nausea">Nausea</string>
+    <string name="vomito">Vômito</string>
+</resources>
